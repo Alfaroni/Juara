@@ -17,7 +17,7 @@
                     </ul>
                 </div>
                 <p>Perum Balearjosari Permai B5, Malang, Jawa Timur<br> Indonesia - +6289667833053</p>
-                <div class="flex flex-col lg:flex-row justify-between items-end">
+                <div class="flex flex-col gap-2 lg:flex-row justify-between lg:items-end">
                     <ul class="flex items-center gap-4 font-bold text-sm">
                         <li>Beranda</li>
                         <li>FAQ</li>
