@@ -21,7 +21,7 @@
                         <span class="inline-flex z-10 items-center bg-purple-100 rounded-lg px-4 py-2 absolute -top-16 -right-12 max-w-56">AI Engine Deskripsi otomatis deteksi mood dari foto siswa.</span>
                         <span class="inline-flex z-10 items-center bg-green-100 rounded-lg px-4 py-2 absolute -bottom-16 -left-14 max-w-56">Automation Rapor mingguan, Gallery Foto dan Ringkasan potensi siswa</span>
                         <div class="aspect-[390/812] relative w-full max-w-[200px] lg:max-w-[280px] h-fit border-8 border-neutral-200 dark:border-neutral-700 rounded-[2rem] lg:rounded-[4rem] flex items-center overflow-hidden">
-                            <img src="../assets/images/phoneTeach.png"  class="object-cover h-full" ></img>
+                            <img src="../assets/images/phoneTeach.png"  class="object-cover w-full h-full" ></img>
                         </div>
                     </div>
                 </div>

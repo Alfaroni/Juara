@@ -18,7 +18,7 @@
                 </div>
                 <div class="flex-1 w-full flex items-center justify-center">
                     <div class="aspect-[390/812]  w-full max-w-[200px] lg:max-w-[280px] h-fit border-8 border-neutral-200 dark:border-neutral-700 rounded-[2rem] lg:rounded-[4rem] flex items-center overflow-hidden">
-                        <img src="../assets/images/phoneSummit.jpeg"  class="object-cover h-full" ></img>
+                        <img src="../assets/images/phoneSummit.jpeg"  class="object-cover w-full h-full" ></img>
                     </div>
                 </div>
             </div>
