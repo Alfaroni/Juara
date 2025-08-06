@@ -5,7 +5,7 @@
 <template>
     <section>
         <div class="container max-w-full py-16">
-            <div class="absolute z-10 top-1/2 left-1/2 -translate-1/2 w-full bg-white lg:bg-transparent lg:bg-[linear-gradient(to_right,transparent_0%,white_5%,white_95%,transparent_100%)] lg:dark:bg-[linear-gradient(to_right,transparent_0%,#171717_5%,#171717_95%,transparent_100%)] lg:max-w-3xl p-4 space-y-4 text-center">
+            <div class="absolute z-10 top-1/2 left-1/2 -translate-1/2 w-full bg-white dark:bg-neutral-900 lg:bg-transparent lg:bg-[linear-gradient(to_right,transparent_0%,white_5%,white_95%,transparent_100%)] lg:dark:bg-[linear-gradient(to_right,transparent_0%,#171717_5%,#171717_95%,transparent_100%)] lg:max-w-3xl p-4 space-y-4 text-center">
                 <p class="font-bold">“Kita semua tahu, mendidik anak di era digital itu penuh tantangan. Baik di sekolah maupun di rumah, ada beberapa hal yang bikin guru dan orang tua khawatir:”</p>
                 <a href="" class="btn btn--block">Gabung Sekarang</a>
             </div>

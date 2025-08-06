@@ -11,11 +11,11 @@
                     <p>Aplikasi yang dirancang khusus untuk mermpermudah guru menyusun rencana pembelajaran dalam hitungan menit.</p>
                     <a href="" class="btn btn--block">Gabung Sekarang</a>
                 </div>
-                <div class="flex-1 shrink-0 overflow-hidden flex items-center gap-4 justify-center -mx-4">
-                    <div class="aspect-[390/812] min-w-[180px] max-w-[180px] h-fit border-8 border-neutral-200 dark:border-neutral-700 rounded-[2rem] flex items-center overflow-hidden">
+                <div class="flex-1 w-full shrink-0 overflow-hidden flex items-center gap-4 justify-center -mx-4">
+                    <div class="aspect-[390/812]  w-full w-full max-w-[200px] lg:max-w-[280px] h-fit border-8 border-neutral-200 dark:border-neutral-700 rounded-[2rem] flex items-center overflow-hidden">
                         <img src="../assets/images/phoneRPP.jpeg" class="object-cover h-full" ></img>
                     </div>
-                    <div class="aspect-[390/812] min-w-[180px] max-w-[180px]  h-fit border-8 border-neutral-200 dark:border-neutral-700 rounded-[2rem] flex items-center overflow-hidden">
+                    <div class="aspect-[390/812]  w-full w-full max-w-[200px] lg:max-w-[280px] h-fit border-8 border-neutral-200 dark:border-neutral-700 rounded-[2rem] flex items-center overflow-hidden">
                         <img src="../assets/images/phoneRPP2.jpeg" class="object-cover h-full" ></img>
                     </div>
                 </div>
