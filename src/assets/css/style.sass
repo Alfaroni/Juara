@@ -1,0 +1,35 @@
+@theme
+    --color-primary: #0167F7
+    --font-inter: "Inter", sans-serif
+
+
+@layer utilities
+    .container
+        @apply relative mx-auto w-full
+    .btn
+        @apply outline-0 min-w-40 min-h-10 px-4 font-bold rounded-full inline-flex justify-center items-center text-center transition lg:min-w-44 lg:min-h-12
+        &--block
+            @apply bg-primary text-white hover:bg-blue-600
+        &--outline
+            @apply bg-white dark:bg-neutral-900 border border-neutral-200 hover:bg-blue-600 hover:text-white hover:border-transparent dark:border-neutral-700
+        
+@layer components
+
+    $cards: 3
+    .cards
+        --cards: $cards
+        --cardTopPadding: 1.5em
+        --cardMargin: 1rem
+        display: grid
+        grid-template-columns: 1fr
+        grid-template-rows: repeat(var(--cards), 32rem)
+        gap: var(--cardMargin)
+        scroll-snap-type: y mandatory
+        &-item
+            position: sticky
+            position: -webkit-sticky
+            scroll-snap-align: start
+        
+    @for $i from 1 through $cards
+        .cards-item:nth-child(#{$i})
+            --index: #{$i}
